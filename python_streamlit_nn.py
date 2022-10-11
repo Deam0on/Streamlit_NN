@@ -1,5 +1,4 @@
-
-#import streamlit as st
+import streamlit as st
 import torch
 import detectron2
 from detectron2.utils.logger import setup_logger
