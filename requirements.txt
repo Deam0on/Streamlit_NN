@@ -1,5 +1,4 @@
 pyyaml
-git+https://github.com/Kitware/CMake.git
 git+https://github.com/pytorch/pytorch.git@8c5c07c2e90457e1dec66c62b93fde16c9e1673a
 torchvision
 git+https://github.com/facebookresearch/detectron2.git@5aeb252b194b93dc2879b4ac34bc51a31b5aee13
